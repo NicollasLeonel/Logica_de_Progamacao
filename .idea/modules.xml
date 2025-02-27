@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Logica de programacao.iml" filepath="$PROJECT_DIR$/../Logica de programacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/logica-js-projeto_inicial.iml" filepath="$PROJECT_DIR$/.idea/logica-js-projeto_inicial.iml" />
     </modules>
   </component>
 </project>
